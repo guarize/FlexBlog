@@ -1,7 +1,7 @@
 # Flexblog
 <br />
 
-### This was the first responsive website I developed only using Flexbox, in order to practice my skills.
+### This was the first responsive [website](https://guarize.github.io/projetos/flexblog/) I developed only using Flexbox, in order to practice my skills.
 <br />
 
 <div align='left'>
